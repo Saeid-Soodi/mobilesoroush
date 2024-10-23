@@ -49,3 +49,8 @@
 {
 @apply bg-SecondaryColor text-blackColor;
 }
+
+@font-face {
+    font-family:'Pinar';
+    src: url(./assets/font/Pinar.ttf);
+}

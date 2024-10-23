@@ -38,8 +38,7 @@ module.exports = {
       }
     },
     fontFamily:{
-      oswald:['Oswald' ,'sans-serif'], 
-      dmSans:['DM Sans' , 'sans-serif']
+      Pinar:['Pinar','sans-serif']
     }
   },
   plugins: [],
